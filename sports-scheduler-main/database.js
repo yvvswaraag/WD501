@@ -1,4 +1,5 @@
 // database.js
+//postgreSQL
 const { Pool } = require('pg');
 
 const pool = new Pool({
